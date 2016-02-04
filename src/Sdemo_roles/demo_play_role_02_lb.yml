@@ -1,0 +1,4 @@
+- name: Demonstrate a working deploy of nginx loadbalancer in round robin mode (using python_webstack)
+  hosts: webservers
+  roles:
+    - loadbalancer_nginx

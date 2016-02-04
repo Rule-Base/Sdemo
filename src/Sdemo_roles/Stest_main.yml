@@ -1,0 +1,4 @@
+---
+- include: demo_play_role_01.yml
+- include: demo_play_role_02_lb.yml
+- include: demo_play_role_03.yml
