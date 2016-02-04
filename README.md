@@ -40,13 +40,12 @@ CREDIT - Codes used in this demo includes original codes from Glen Jarvis https:
 
     Configuration is complete.
     
-    4. Change to the src directory.
+4. Change to the src directory.
 
     ```bash
     prompt> Sdemo/src/Sdemo_roles
 
     ```
-
 Then read the README.txt in Sdemo/src/Sdemo_roles  before running Stest_main.yml
 
 5. Then run Stest_main.yml by following the instructions in  Sdemo/src/Sdemo_roles/README.txt
