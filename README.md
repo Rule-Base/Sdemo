@@ -47,7 +47,7 @@ CREDIT - Codes used in this demo includes original codes from Glen Jarvis https:
 
     ```
 
-Then read the README.txt in Sdemo/src/Sdemo_roles  before running Stest_main.yml
+   Then read the README.txt in Sdemo/src/Sdemo_roles  before running Stest_main.yml
 
-5. Then run Stest_main.yml by following the instructions in  Sdemo/src/Sdemo_roles/README.txt
+    5. Then run Stest_main.yml by following the instructions in  Sdemo/src/Sdemo_roles/README.txt
 
